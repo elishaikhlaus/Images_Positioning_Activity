@@ -29,7 +29,7 @@ body,td,th {
 
 #content p {line-height:1.6em;}
 #attention {
-	clear:left;
+	/*clear:left;*/
 	float: left;
 	width: 300px;
 	border-right-style: solid;
